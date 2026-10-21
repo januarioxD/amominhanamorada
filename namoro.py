@@ -172,6 +172,6 @@ if not st.session_state.respondeu:
 else:
     st.balloons()
     st.markdown(
-        f'<div class="fim">Eu te amo minha criancinha {NOME_DELA} 💗</div>',
+        f'<div class="fim">Eu te amo minha criancinha 💗</div>',
         unsafe_allow_html=True,
     )
