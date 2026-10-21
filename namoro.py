@@ -6,7 +6,7 @@ import streamlit as st
 # ============================================================
 # EDITE AQUI: troque pelos dados de vocês dois
 # ============================================================
-SEU_NOME = "Seu nome"
+SEU_NOME = "Januario"
 NOME_DELA = "Collen"
 INICIO_NAMORO = date(2026, 10, 18)  # ano, mês, dia em que vocês começaram
 
@@ -28,7 +28,7 @@ Oi meu amor vim aqui dizer que vc e a garota mais incrivel que eu conheci, voce 
 
 
 Com todo o meu carinho,
-{seu_nome}"""
+{januario}"""
 
 FOTOS = []  # ex.: ["foto1.jpg", "foto2.jpg"] (arquivos na mesma pasta)
 LEGENDAS = []  # ex.: ["Nossa primeira viagem", "Aquele pôr do sol"]
