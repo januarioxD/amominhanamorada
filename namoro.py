@@ -28,7 +28,7 @@ Oi meu amor vim aqui dizer que vc e a garota mais incrivel que eu conheci, voce 
 
 
 Com todo o meu carinho,
-{seu_nome}"""januario
+"{januario}"
 
 FOTOS = []  # ex.: ["foto1.jpg", "foto2.jpg"] (arquivos na mesma pasta)
 LEGENDAS = []  # ex.: ["Nossa primeira viagem", "Aquele pôr do sol"]
