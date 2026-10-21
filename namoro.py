@@ -8,29 +8,24 @@ import streamlit as st
 # ============================================================
 SEU_NOME = "Seu nome"
 NOME_DELA = "Collen"
-INICIO_NAMORO = date(2025, 1, 1)  # ano, mês, dia em que vocês começaram
+INICIO_NAMORO = date(2026, 10, 18)  # ano, mês, dia em que vocês começaram
 
 MOMENTOS = [
-    ("O dia em que nos conhecemos", "Conte aqui onde foi, o que você sentiu e o que achou dela."),
-    ("Nosso primeiro encontro", "Aquele café, aquele filme, aquela risada que ficou na memória."),
-    ("O dia em que ficou oficial", "O pedido, o frio na barriga e o sim mais bonito."),
-    ("Nossa primeira viagem", "Um lugar, uma foto, uma história só nossa."),
+    ("O dia em que nos conhecemos", "o dia que eu te conheci foi a melhor coisa do mundo, cada sorriso e conversas que tivemos foi perfeito."),
+    ("O dia em que começamos a namorar", "o dia que eu pedi para namorar foi o dia mais especial para mim pois eu soou muito apaixonado por voce."),
+    
 ]
 
 MOTIVOS = [
-    "Seu sorriso arruma qualquer dia ruim.",
-    "Você me escuta de verdade.",
-    "Seu jeito de rir das minhas piadas sem graça.",
-    "Com você até o silêncio é gostoso.",
-    "Você torna as coisas simples especiais.",
-    "Você me faz querer ser melhor.",
-    "Seu abraço é o meu lugar favorito.",
+    "voce melhora meu dia.",
+    "Voce realmente cuida de mim.",
+    "voce e a garota mais especil do mundo.",
+    "voce e a garota mais gostosa cuti cuti."
 ]
 
 CARTA = """Collen,
+Oi meu amor vim aqui dizer que vc e a garota mais incrivel que eu conheci, voce tornou meus dias mais felizes eu amo cada detalhe seu voce e uma garota que merece tudo e mais um pouco e quero muito ver voce minha garotinha.
 
-Escreva aqui a sua carta. Conte o que ela significa para você, o que mudou
-depois que ela chegou e o que você sonha para os dois.
 
 Com todo o meu carinho,
 {seu_nome}"""
